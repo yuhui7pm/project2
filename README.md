@@ -1,6 +1,6 @@
 题目：React脚手架实现“简书”
 
-编写内容主要是：首页，登录页，具体文章页，加载更多内容模块。
+编写内容主要是：首页，用户登录页，点击进入具体文章页，点击back按钮返回到顶部，点击按钮加载出更多内容模块。
 
 主要技术：react脚手架，immutable，axios，redux-thunk，redux，react-router-dom(Redirect)，
 	styled-components，iconfont, react-loadable，react-redux (connect)，react-transition-group,
