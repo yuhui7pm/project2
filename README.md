@@ -4,7 +4,7 @@
 
 主要技术：react脚手架，immutable，axios，redux-thunk，redux，react-router-dom(Redirect),
 	styled-components, iconfont, react-loadable, react-redux (connect), react-transition-group,
-	pureComponent, immutable, react-loadable, withRouter
+	pureComponent, immutable, react-loadable, withRouter, Redirect
 
 PS：因为学业繁重，这是我抽空完成的。可能写的不是很完整度，但是基本的功能都实现了，也考虑了性能优化等因素。
     百度网盘(内有视频)链接：https://pan.baidu.com/s/1ah1l7TQFPbDmV9rcXnGwsA  提取码：0xfx  
