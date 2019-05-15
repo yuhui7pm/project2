@@ -6,5 +6,7 @@
 	styled-components，iconfont, react-loadable，react-redux (connect)，
 
 PS：因为学业繁重，这是我抽空完成的。可能写的不是很完整度，但是基本的功能都实现了，也考虑了性能优化等因素。
-       上传时间：2019/5/13，自学前端半年。
-       上传者：余晖。
+    百度网盘(内有视频)链接：https://pan.baidu.com/s/1ah1l7TQFPbDmV9rcXnGwsA  提取码：0xfx  
+    上传时间：2019/5/13，自学前端半年。
+    上传者：余晖。
+     
